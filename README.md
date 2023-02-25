@@ -24,7 +24,8 @@ This repository was created February 22, 2023. This project is an exercise reali
 1. create a local working folder
 2. open Git Bash
 3. clone the repository
-4. now you can work on the file
+4. npm install
+5. now you can work on the file
 
 ---
 
